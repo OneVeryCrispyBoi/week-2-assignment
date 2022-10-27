@@ -1,1 +1,2 @@
-Java script week 2 assignment
+Author:Alexis Lara
+Purpose: Week 2 javascript assignment.
